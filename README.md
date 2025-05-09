@@ -18,6 +18,10 @@ $ irb -rb
 => "The current stable version is 3.4.3."
 ```
 
+## Thanks
+
+Thanks to [Jean Boussier](https://github.com/byroot) for finding the name.
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
